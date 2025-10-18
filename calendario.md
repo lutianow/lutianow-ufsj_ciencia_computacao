@@ -11,6 +11,7 @@
 | **24/09/2025** | Introdução à Ciência          | Prova 1      |
 | **25/09/2025** | Matemática                    | Prova 1      |
 | **02/10/2025** | Algoritmos                    | Prova 1      |
+| **07/10/2025** | Laboratório de Programação    | Prova 1      |
 | **08/10/2025** | Lógica de Programação         | Prova 1      |
 | **28/10/2025** | Matemática                    | Prova 2      |
 | **30/10/2025** | Algoritmos                    | Prova 2      |
